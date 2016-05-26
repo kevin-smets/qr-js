@@ -1,16 +1,16 @@
 {
-  "name": "qr-js",
+  "name": "qrqr",
   "version": "1.0.0",
   "description": "Generate QR codes from the command line, optionally save them straight to file",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "qrjs": "bin/qrjs.js"
+    "qrqr": "bin/qrqr.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevin-smets/qr-js.git"
+    "url": "git+https://github.com/kevin-smets/qrar.git"
   },
   "keywords": [
     "qrcode",
@@ -21,9 +21,9 @@
   "author": "Kevin Smets",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kevin-smets/qr-js/issues"
+    "url": "https://github.com/kevin-smets/qrqr/issues"
   },
-  "homepage": "https://github.com/kevin-smets/qr-js#readme",
+  "homepage": "https://github.com/kevin-smets/qrqr#readme",
   "dependencies": {
     "base64-img": "^1.0.3",
     "yaqrcode": "^0.2.1",
