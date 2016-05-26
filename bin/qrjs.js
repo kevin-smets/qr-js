@@ -13,7 +13,6 @@ var argv = require('yargs')
     type: 'string'
   })
   .option('html', {
-    alias: 'o',
     describe: 'Output as html',
     type: 'boolean'
   })
